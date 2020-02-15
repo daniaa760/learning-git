@@ -1,4 +1,8 @@
 /* 
+Team leader: Daniela Agueros COP 2210 U09 
+Students: Jesus Fernandez COP 2210 U09
+          Joseph Capers COP 2210 U16
+
 A program that simulates a statistics tool, by letting the user 
 determine the minimum, the maximum, the range (maximum-minimum), the
 mode, the mean (average), and the standard deviation of a set of
