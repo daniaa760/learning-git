@@ -1,9 +1,9 @@
 /* 
-Team leader: Daniela Agueros, 6185850, COP 2210 U09 
-Students: Jesus Fernandez, 4177284, COP 2210 U09
-          Joseph Capers, 6123322, COP 2210 U16
+Team leader: Daniela Agueros COP 2210 U09 
+Students: Jesus Fernandez COP 2210 U09
+          Joseph Capers COP 2210 U16
 
-Write a program that simulates a statistics tool, by letting the user 
+A program that simulates a statistics tool, by letting the user 
 determine the minimum, the maximum, the range (maximum-minimum), the
 mode, the mean (average), and the standard deviation of a set of
 numbers. These numbers, that will be stored in an array, respresent
